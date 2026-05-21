@@ -2,8 +2,7 @@ EduPulse - Comprehensive School Management System
 EduPulse is a modern, high-performance, and responsive School Management Dashboard designed to streamline academic operations. Built with a focus on component-driven architecture and strict type safety, it provides seamless data tracking and user experience for administrators, teachers, students, and parents.
 
 🚀 Live Demo
-You can view the live deployment of the project here: https://your-project-link.vercel.app
-
+You can view the live deployment of the project here: https://edupulse-dashboard.vercel.app
 ✨ Key Features
 Role-Based Views: Tailored dashboards and features optimized for Administrators, Teachers, Students, and Parents.
 
